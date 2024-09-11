@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 🌍 Location: Tubarão/SC (Brazil)<br>- 🛠️ Languages: JavaScript, Typescript<br>- 👨‍💻Frameworks: React, RNative, Node.js<br>- 🎯Hobbies: Gaming, gym and cooking <br>- 🎧 Discord: henriquer7564</p>
+<p align="left">- 🌍 Location: Tubarão/SC (Brazil)<br>- 🛠️ Languages: JavaScript, Typescript<br>- 👨‍💻 Frameworks: React, RNative, Node.js<br>- 🎯 Hobbies: Gaming, gym and cooking <br>- 🎧 Discord: henriquer7564</p>
 
 ###
 
